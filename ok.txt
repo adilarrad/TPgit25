@@ -1,2 +1,3 @@
 regsrthr
 gerger
+file from terminal
